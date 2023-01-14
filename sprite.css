@@ -1,0 +1,284 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: FuturaBT W05 ExtraBlack Italic;
+}
+.header nav{
+    position: fixed;
+    width: 100%;
+    height: 90px;
+    background-color: #009b4e;
+    z-index: 1;
+}
+.img{
+    margin-top: 19px;
+    margin-left: 55px;
+    height: 49.9875px;
+	width: 131.575px;
+}
+.img:hover{
+    cursor: pointer;
+}
+.header span{
+    padding-left: 40px;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    text-align: left;
+    text-decoration: none solid rgb(0, 0, 0);
+}
+.options{
+    position: relative;
+    margin-left: 220px;
+    margin-top: -60px;
+    padding: 20px;
+}
+#pro:hover{
+    cursor: pointer;
+    color: black;
+}
+#cre:hover{
+    cursor: pointer;
+    color: black;
+}
+#buy:hover{
+    cursor: pointer;
+    color: black;
+}
+.social{
+    position: absolute;
+    padding: 10px;
+    margin-left: 1124px;
+    margin-top: -67px;
+}
+.social:hover{
+    cursor: pointer;
+}
+.icon{
+    margin: 7px 7px;
+}
+.login{
+    position: absolute;
+    padding: 0;
+    margin-left: 1407px;
+    margin-top: -50px;
+}
+.login:hover{
+    cursor: pointer;
+}
+.second{
+    background-color: #00b13f;
+    width: auto;
+    height: 340px;
+    padding: 50px;
+}
+.sectext1{
+    font-size: 50px;
+    font-weight: 900;
+    color: white;
+    text-align: left;
+    margin-left: 160px;
+    margin-top: 67px;
+}
+.sectext button{
+    display: flex;
+    padding: 10px 40px;
+    background-color: white;
+    color: #009b4e;
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 160px;
+    margin-top: 25px;
+    border: none;
+}
+.sectext button:hover{
+    cursor: pointer;
+    color: black;
+}
+.secimg{
+    position: absolute;
+    margin-left: 742px;
+    margin-top: -212px;
+    width: 50%;
+    height: 350px;
+}
+.third{
+    align-items: center;
+}
+.thtext{
+    font-size: 37px;
+    font-weight: 200;
+    color: black;
+    margin-left: 381px;
+    margin-top: 44px;
+}
+.thtext1{
+    margin-left: 381px;
+    font-weight: 300; 
+}
+.third iframe{
+    margin-left: 381px;
+    margin-top: 20px;
+}
+.yt:hover{
+    cursor: pointer;
+}
+.thimg{
+    position: absolute;
+    height: 0.8cm;
+    width: 1.2cm;
+    margin-top: 469px;
+    margin-left: -44px;
+}
+.thimg:hover{
+    cursor: pointer;
+}
+.thimg1{
+    position: absolute;
+    height: 545px;
+    width: 735px;
+    margin-left: -757px;
+    margin-top: 501px;
+}
+.footer{
+    margin-top: 578px;
+    width: 100%;
+    height: 468px;
+    background-color: #009b4e;
+    color: white;
+}
+.fimg{
+    margin-top: 98px;
+    margin-left: 251px;
+    height: 49.9875px;
+    width: 131.575px;
+}
+.connect{
+    margin-top: -77px;
+    margin-left: 411px;
+    font-weight: 700;
+    font-size: 20px;
+}
+.connect:hover{
+    cursor: pointer;
+    color: black;
+}
+.social1{
+    position: absolute;
+    padding: 10px;
+    margin-left: 546px;
+    margin-top: 27px;
+}
+.social1:hover{
+    cursor: pointer;
+}
+.prod{
+    padding: 10px 20px;
+    margin-left: 200px;
+}
+.pr{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: -25px;
+    margin-left: 711px;
+}
+#prodli1{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 39px;
+    margin-left: 750px
+}
+#prodli2{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 750px
+}
+#prodli3{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 750px
+}
+#prodli4{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 750px
+}
+#prodli5{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 750px
+}
+#prodli1:hover{
+    cursor: pointer;
+    color: black;
+}
+#prodli2:hover{
+    cursor: pointer;
+    color: black;
+}
+#prodli3:hover{
+    cursor: pointer;
+    color: black;
+}
+#prodli4:hover{
+    cursor: pointer;
+    color: black;
+}
+#prodli5:hover{
+    cursor: pointer;
+    color: black;
+}
+.foottext{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 68px;
+    margin-left: 35%;
+}
+.foottext a{
+    color: white;
+}
+.footb{
+    width: 100%;
+    height: 30px;
+    margin-top: 3px;
+    padding-left: 5px;
+    padding-top: 5px;
+    text-align: center;
+}
+.footb span{
+    padding: 20px;
+    font-size: 16px;
+    font-weight: 900;
+}
+#f1:hover{
+    cursor: pointer;
+    color: black;
+}
+#f2:hover{
+    cursor: pointer;
+    color: black;
+}
+#f3:hover{
+    cursor: pointer;
+    color: black;
+}
+#f4:hover{
+    cursor: pointer;
+    color: black;
+}
+#f5:hover{
+    cursor: pointer;
+    color: black;
+}
+#f6:hover{
+    cursor: pointer;
+    color: black;
+}
+#f7:hover{
+    cursor: pointer;
+    color: black;
+}
